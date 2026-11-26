@@ -1,0 +1,10 @@
+{
+  "name": "EcoSort",
+  "description": "Smart Waste Segregation & Circular Action Platform — AI-powered real photo waste identification, 4-stream bin routing, Pune recycling centres, disposal tracking, and 3R habit challenges.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
